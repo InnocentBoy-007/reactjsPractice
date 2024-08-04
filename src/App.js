@@ -1,4 +1,5 @@
-//reversing the string on click
+//this code is about handling an api using async await
+
 import React from 'react'
 
 import { useState, useEffect } from 'react'
